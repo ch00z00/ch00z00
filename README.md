@@ -3,14 +3,14 @@
 <h3 align="left">Frontend developer</h3>
 
 <p>
-  <a href="https://github.com/yutkat/yutkat/">
-    <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
+  <a href="https://github.com/ch00z00/ch00z00/">
+    <img src="https://komarev.com/ghpvc/?username=ch00z00" alt="ch00z00" />
   </a>
-  <a href="http://twitter.com/yutkat">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/choozoo10">
+    <img height="20" src="https://img.shields.io/twitter/follow/choozoo10?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/ch00z00">
+    <img height="20" src="https://img.shields.io/github/followers/ch00z00?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
