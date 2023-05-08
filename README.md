@@ -15,8 +15,13 @@
 </p>
 
 <h3 align="left">🚀 Mastered technologies & tools</h3>
-
 <img
   alt="technologies"
   src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,js,ts,nodejs,react,nextjs,threejs,tailwind,webpack,vercel,graphql,py,django,linux,docker,git,github,githubactions,vscode"
   />
+
+<h3 align="left">📈 Stats</h3>
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch00z00&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ch00z00" />
+</p>
