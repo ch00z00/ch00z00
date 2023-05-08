@@ -12,6 +12,9 @@
   <a href="https://github.com/ch00z00">
     <img height="20" src="https://img.shields.io/github/followers/ch00z00?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://zenn.dev/choozoo">
+    <img src="https://badgen.org/img/zenn/choozoo/followers?style=plastic&label=Followers" alt="Followers" />
+  </a>
 </p>
 
 <h3 align="left">🚀 Mastered technologies & tools</h3>
