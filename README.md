@@ -5,18 +5,15 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ch00z00&label=Profile%20views&color=0e75b6&style=flat" alt="ch00z00" />
 </p>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ch00z00" alt="ch00z00" />
   </a>
-</p>
-<p align="left">
-  <a href="https://twitter.com/choozoo10" target="blank">
-    <img src="https://img.shields.io/twitter/follow/choozoo10?logo=twitter&style=for-the-badge" alt="choozoo10" />
+  <a href="http://twitter.com/choozoo10">
+    <img height="20" src="https://img.shields.io/twitter/follow/choozoo10?label=Twitter&logo=twitter&style=flat" />
   </a>
 </p>
-
-- 💌 Contact **choozoo10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
