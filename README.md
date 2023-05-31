@@ -19,7 +19,7 @@ Frontend developer
 ## 🚀 Mastered technologies & tools
 <img
   alt="technologies"
-  src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,js,ts,nodejs,react,nextjs,threejs,blender,tailwind,webpack,vercel,graphql,py,django,linux,docker,git,github,githubactions,vscode"
+  src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,js,ts,nodejs,react,nextjs,threejs,blender,tailwind,vercel,graphql,py,django,linux,docker,git,github,githubactions,vscode"
   />
 
 ## 📈 Stats
