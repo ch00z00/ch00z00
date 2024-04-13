@@ -5,15 +5,6 @@ Software developer
   <a href="https://github.com/ch00z00/ch00z00/">
     <img src="https://komarev.com/ghpvc/?username=ch00z00" alt="ch00z00" />
   </a>
-  <a href="http://twitter.com/choozoo10">
-    <img height="20" src="https://img.shields.io/twitter/follow/choozoo10?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/ch00z00">
-    <img height="20" src="https://img.shields.io/github/followers/ch00z00?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://zenn.dev/choozoo">
-    <img src="https://badgen.org/img/zenn/choozoo/followers?style=plastic&label=Followers" alt="Followers" />
-  </a>
 </p>
 
 <br />
