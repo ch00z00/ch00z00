@@ -1,5 +1,5 @@
-## Hi! I'm ch00z00 👋
-Frontend developer
+## Hi! my name is Yusuke Seki 👋
+Software developer
 
 <p>
   <a href="https://github.com/ch00z00/ch00z00/">
