@@ -1,4 +1,4 @@
-## Hi! my name is Yusuke Seki 👋
+## Hi! my name is choozoo 👋
 Software developer
 <p>
   <a href="https://github.com/ch00z00/ch00z00/">
